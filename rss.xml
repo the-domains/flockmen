@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Flockmen]]></title>
+        <description><![CDATA[Flockmen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 22:09:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decorate to your child's taste]]></title>
+            <description><![CDATA[<article><h1>Decorate to your child's taste</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f339831f-5add-4a5b-9338-f428cfc92af0.png"></article>]]></description>
+            <link>undefineddecorate-to-your-childs-taste/index.html</link>
+            <guid isPermaLink="false">e5534271-6a93-4db1-bcc3-7122ac26b785</guid>
+            <pubDate>Thu, 10 Mar 2016 22:07:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
