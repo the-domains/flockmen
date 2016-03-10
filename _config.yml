@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1070826
 color:
-  saturation: 0.9838518
-  lightness: 0.2267145
+  saturation: 0.8836425
   brandStrength: 1
+  lightness: 0.2267145
   brandColors:
     - '#5B4239'
     - '#FFFFFF'
@@ -10,5 +22,5 @@ color:
     - '#02D080'
     - '#FBEB01'
   rhythmicContrast: 0.623946
-typography_spectrum: 0.1070826
+layout_spectrum: 1
 name: Flockmen
