@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Flockmen]]></title>
         <description><![CDATA[Flockmen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flockmen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:09:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 22:20:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flockmen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ignite your child's imagination]]></title>
+            <description><![CDATA[<article><h1>Ignite your child's imagination</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a5dd7fb0c2fbf61e3a16cebedc5fc0dad15aabc.png"></article>]]></description>
+            <link>https://thegrid.ai/flockmen/ignite-your-childs-imagination/index.html</link>
+            <guid isPermaLink="false">f84967aa-763f-48d8-9ee5-b4d78679d9d7</guid>
+            <pubDate>Thu, 10 Mar 2016 22:18:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decorate to your child's taste]]></title>
-            <description><![CDATA[<article><h1>Decorate to your child's taste</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f339831f-5add-4a5b-9338-f428cfc92af0.png"></article>]]></description>
-            <link>undefineddecorate-to-your-childs-taste/index.html</link>
+            <description><![CDATA[<article><h1>Decorate to your child's taste</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310718edf6bc478d8b0c8559954960351c9a9a12.png"></article>]]></description>
+            <link>https://thegrid.ai/flockmen/decorate-to-your-childs-taste/index.html</link>
             <guid isPermaLink="false">e5534271-6a93-4db1-bcc3-7122ac26b785</guid>
             <pubDate>Thu, 10 Mar 2016 22:07:42 GMT</pubDate>
         </item>
