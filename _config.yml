@@ -1,3 +1,7 @@
+name: Flockmen
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1070826
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1070826
+title: Flockmen - timeless wooden stacking toys for children of all ages
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8836425
-  brandStrength: 1
-  lightness: 0.2267145
   brandColors:
     - '#5B4239'
     - '#FFFFFF'
     - '#F35236'
     - '#02D080'
     - '#FBEB01'
+  brandStrength: 1
+  lightness: 0.2267145
+  saturation: 0.8836425
   rhythmicContrast: 0.623946
-layout_spectrum: 1
-name: Flockmen
+purpose: []
