@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:c6b769d6-ed70-434b-8076-4d55f962b697'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-11T23:23:54.762Z'
+dateModified: '2016-03-11T23:23:38.829Z'
 author: []
-datePublished: '2016-03-10T22:18:53.742Z'
-publisher:
-  domain: ''
-  name: ''
 title: "Ignite your child's imagination"
-dateModified: '2016-03-10T22:16:17.719Z'
 sourcePath: _posts/2016-03-10-ignite-your-childs-imagination.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: ignite-your-childs-imagination/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
